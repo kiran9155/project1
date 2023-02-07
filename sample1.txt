@@ -1,4 +1,0 @@
-hi
-1.apple
-2.oranges
-3.grapes
